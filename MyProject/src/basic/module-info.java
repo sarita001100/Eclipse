@@ -1,0 +1,2 @@
+module MyBesicJavaProject1 {
+}
